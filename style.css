@@ -19,9 +19,9 @@ span{
     width: 40px;
     height: 40px;
     background: url(hole.png);
-    /* background-position: center; */
-    /* background-size: 100% 100%; */
-    /* background-repeat: no-repeat; */
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
     pointer-events: none;
     transform: translate(29px, 30px);
 }
